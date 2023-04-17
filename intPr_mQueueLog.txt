@@ -1,0 +1,215 @@
+Current time: 1681739294
+Queue size: 0 elements
+Stats:
+Priority	%
+Total size of the queue: 0Kb
+The biggest difference between time expired: 0s
+
+Current time: 1681739295
+Queue size: 1 elements
+Stats:
+Priority	%
+5			100%
+Total size of the queue: 0.0390625Kb
+The biggest difference between time expired: 0s
+
+Current time: 1681739296
+Queue size: 2 elements
+Stats:
+Priority	%
+0			50%
+5			50%
+Total size of the queue: 0.0439453Kb
+The biggest difference between time expired: 8.99546s
+
+Current time: 1681739297
+Queue size: 2 elements
+Stats:
+Priority	%
+0			50%
+5			50%
+Total size of the queue: 0.0439453Kb
+The biggest difference between time expired: 7.98467s
+
+Current time: 1681739298
+Queue size: 3 elements
+Stats:
+Priority	%
+0			33.3333%
+5			33.3333%
+9			33.3333%
+Total size of the queue: 0.046875Kb
+The biggest difference between time expired: 19.0073s
+
+Current time: 1681739299
+Queue size: 4 elements
+Stats:
+Priority	%
+0			25%
+4			25%
+5			25%
+9			25%
+Total size of the queue: 0.0859375Kb
+The biggest difference between time expired: 19.0073s
+
+Current time: 1681739300
+Queue size: 3 elements
+Stats:
+Priority	%
+5			33.3333%
+9			66.6667%
+Total size of the queue: 0.0449219Kb
+The biggest difference between time expired: 11.0226s
+
+Current time: 1681739301
+Queue size: 4 elements
+Stats:
+Priority	%
+5			25%
+9			75%
+Total size of the queue: 0.0478516Kb
+The biggest difference between time expired: 11.0226s
+
+Current time: 1681739302
+Queue size: 5 elements
+Stats:
+Priority	%
+0			20%
+5			20%
+9			60%
+Total size of the queue: 0.0527344Kb
+The biggest difference between time expired: 13.944s
+
+Current time: 1681739303
+Queue size: 5 elements
+Stats:
+Priority	%
+5			20%
+8			20%
+9			60%
+Total size of the queue: 0.0869141Kb
+The biggest difference between time expired: 14.0888s
+
+Current time: 1681739304
+Queue size: 6 elements
+Stats:
+Priority	%
+4			16.6667%
+5			16.6667%
+8			16.6667%
+9			50%
+Total size of the queue: 0.125977Kb
+The biggest difference between time expired: 14.0888s
+
+Current time: 1681739305
+Queue size: 7 elements
+Stats:
+Priority	%
+4			28.5714%
+5			14.2857%
+8			14.2857%
+9			42.8571%
+Total size of the queue: 0.165039Kb
+The biggest difference between time expired: 14.0888s
+
+Current time: 1681739306
+Queue size: 7 elements
+Stats:
+Priority	%
+4			28.5714%
+5			14.2857%
+8			14.2857%
+9			42.8571%
+Total size of the queue: 0.165039Kb
+The biggest difference between time expired: 14.0888s
+
+Current time: 1681739307
+Queue size: 8 elements
+Stats:
+Priority	%
+3			12.5%
+4			25%
+5			12.5%
+8			12.5%
+9			37.5%
+Total size of the queue: 0.204102Kb
+The biggest difference between time expired: 14.0888s
+
+Current time: 1681739308
+Queue size: 9 elements
+Stats:
+Priority	%
+3			11.1111%
+4			22.2222%
+5			11.1111%
+6			11.1111%
+8			11.1111%
+9			33.3333%
+Total size of the queue: 0.243164Kb
+The biggest difference between time expired: 15.1368s
+
+Current time: 1681739309
+Queue size: 9 elements
+Stats:
+Priority	%
+3			11.1111%
+4			22.2222%
+5			11.1111%
+6			11.1111%
+8			11.1111%
+9			33.3333%
+Total size of the queue: 0.243164Kb
+The biggest difference between time expired: 15.1368s
+
+Current time: 1681739310
+Queue size: 10 elements
+Stats:
+Priority	%
+3			10%
+4			20%
+5			10%
+6			20%
+8			10%
+9			30%
+Total size of the queue: 0.282227Kb
+The biggest difference between time expired: 15.1368s
+
+Current time: 1681739311
+Queue size: 11 elements
+Stats:
+Priority	%
+3			18.1818%
+4			18.1818%
+5			9.09091%
+6			18.1818%
+8			9.09091%
+9			27.2727%
+Total size of the queue: 0.321289Kb
+The biggest difference between time expired: 15.1368s
+
+Current time: 1681739312
+Queue size: 11 elements
+Stats:
+Priority	%
+3			18.1818%
+4			18.1818%
+5			9.09091%
+6			18.1818%
+8			9.09091%
+9			27.2727%
+Total size of the queue: 0.321289Kb
+The biggest difference between time expired: 15.1368s
+
+Current time: 1681739313
+Queue size: 12 elements
+Stats:
+Priority	%
+3			16.6667%
+4			16.6667%
+5			8.33333%
+6			16.6667%
+8			8.33333%
+9			33.3333%
+Total size of the queue: 0.324219Kb
+The biggest difference between time expired: 15.1368s
+

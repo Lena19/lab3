@@ -1,0 +1,224 @@
+Current time: 1681739314
+Queue size: 0 elements
+Stats:
+Priority	%
+Total size of the queue: 0Kb
+The biggest difference between time expired: 0s
+
+Current time: 1681739315
+Queue size: 1 elements
+Stats:
+Priority	%
+Message with the 6th level of importance			100%
+Total size of the queue: 0.0390625Kb
+The biggest difference between time expired: 0s
+
+Current time: 1681739316
+Queue size: 2 elements
+Stats:
+Priority	%
+Message with the 4th level of importance			50%
+Message with the 6th level of importance			50%
+Total size of the queue: 0.078125Kb
+The biggest difference between time expired: 2.99137s
+
+Current time: 1681739317
+Queue size: 2 elements
+Stats:
+Priority	%
+Message with the 6th level of importance			50%
+Message with the 8th level of importance			50%
+Total size of the queue: 0.078125Kb
+The biggest difference between time expired: 6.01228s
+
+Current time: 1681739318
+Queue size: 3 elements
+Stats:
+Priority	%
+Message with the 6th level of importance			33.3333%
+Message with the 8th level of importance			66.6667%
+Total size of the queue: 0.117188Kb
+The biggest difference between time expired: 6.01228s
+
+Current time: 1681739319
+Queue size: 4 elements
+Stats:
+Priority	%
+Message with the 2nd level of importance			25%
+Message with the 6th level of importance			25%
+Message with the 8th level of importance			50%
+Total size of the queue: 0.15625Kb
+The biggest difference between time expired: 9.98419s
+
+Current time: 1681739320
+Queue size: 4 elements
+Stats:
+Priority	%
+Message with the 3rd level of importance			25%
+Message with the 6th level of importance			25%
+Message with the 8th level of importance			50%
+Total size of the queue: 0.15625Kb
+The biggest difference between time expired: 6.97577s
+
+Current time: 1681739321
+Queue size: 5 elements
+Stats:
+Priority	%
+Message with the 3rd level of importance			20%
+Message with the 6th level of importance			20%
+Message with the 7th level of importance			20%
+Message with the 8th level of importance			40%
+Total size of the queue: 0.195312Kb
+The biggest difference between time expired: 9.0055s
+
+Current time: 1681739322
+Queue size: 6 elements
+Stats:
+Priority	%
+Message with the 3rd level of importance			16.6667%
+Message with the 6th level of importance			16.6667%
+Message with the 7th level of importance			16.6667%
+Message with the 8th level of importance			50%
+Total size of the queue: 0.234375Kb
+The biggest difference between time expired: 9.0055s
+
+Current time: 1681739323
+Queue size: 6 elements
+Stats:
+Priority	%
+Message with the 3rd level of importance			16.6667%
+Message with the 6th level of importance			16.6667%
+Message with the 7th level of importance			16.6667%
+Message with the 8th level of importance			50%
+Total size of the queue: 0.234375Kb
+The biggest difference between time expired: 8.04202s
+
+Current time: 1681739324
+Queue size: 7 elements
+Stats:
+Priority	%
+Message with the 2nd level of importance			14.2857%
+Message with the 3rd level of importance			14.2857%
+Message with the 6th level of importance			14.2857%
+Message with the 7th level of importance			14.2857%
+Message with the 8th level of importance			42.8571%
+Total size of the queue: 0.273438Kb
+The biggest difference between time expired: 8.04202s
+
+Current time: 1681739325
+Queue size: 8 elements
+Stats:
+Priority	%
+Error			12.5%
+Message with the 2nd level of importance			12.5%
+Message with the 3rd level of importance			12.5%
+Message with the 6th level of importance			12.5%
+Message with the 7th level of importance			12.5%
+Message with the 8th level of importance			37.5%
+Total size of the queue: 0.27832Kb
+The biggest difference between time expired: 9.96588s
+
+Current time: 1681739326
+Queue size: 8 elements
+Stats:
+Priority	%
+Error			12.5%
+Message with the 2nd level of importance			12.5%
+Message with the 3rd level of importance			12.5%
+Message with the 6th level of importance			12.5%
+Message with the 7th level of importance			12.5%
+Message with the 8th level of importance			37.5%
+Total size of the queue: 0.27832Kb
+The biggest difference between time expired: 8.95988s
+
+Current time: 1681739327
+Queue size: 9 elements
+Stats:
+Priority	%
+Error			11.1111%
+Message with the 2nd level of importance			11.1111%
+Message with the 3rd level of importance			11.1111%
+Message with the 6th level of importance			11.1111%
+Message with the 7th level of importance			22.2222%
+Message with the 8th level of importance			33.3333%
+Total size of the queue: 0.317383Kb
+The biggest difference between time expired: 8.95988s
+
+Current time: 1681739328
+Queue size: 10 elements
+Stats:
+Priority	%
+Error			10%
+Message with the 2nd level of importance			20%
+Message with the 3rd level of importance			10%
+Message with the 6th level of importance			10%
+Message with the 7th level of importance			20%
+Message with the 8th level of importance			30%
+Total size of the queue: 0.320312Kb
+The biggest difference between time expired: 8.95988s
+
+Current time: 1681739329
+Queue size: 9 elements
+Stats:
+Priority	%
+Message with the 2nd level of importance			22.2222%
+Message with the 3rd level of importance			11.1111%
+Message with the 6th level of importance			11.1111%
+Message with the 7th level of importance			22.2222%
+Message with the 8th level of importance			33.3333%
+Total size of the queue: 0.31543Kb
+The biggest difference between time expired: 8.04202s
+
+Current time: 1681739330
+Queue size: 10 elements
+Stats:
+Priority	%
+Message with the 2nd level of importance			20%
+Message with the 3rd level of importance			10%
+Message with the 4th level of importance			10%
+Message with the 6th level of importance			10%
+Message with the 7th level of importance			20%
+Message with the 8th level of importance			30%
+Total size of the queue: 0.354492Kb
+The biggest difference between time expired: 11.1156s
+
+Current time: 1681739331
+Queue size: 11 elements
+Stats:
+Priority	%
+Message with the 2nd level of importance			18.1818%
+Message with the 3rd level of importance			9.09091%
+Message with the 4th level of importance			9.09091%
+Message with the 6th level of importance			9.09091%
+Message with the 7th level of importance			18.1818%
+Message with the 8th level of importance			36.3636%
+Total size of the queue: 0.354492Kb
+The biggest difference between time expired: 19.0998s
+
+Current time: 1681739332
+Queue size: 11 elements
+Stats:
+Priority	%
+Message with the 2nd level of importance			9.09091%
+Message with the 3rd level of importance			9.09091%
+Message with the 4th level of importance			9.09091%
+Message with the 6th level of importance			18.1818%
+Message with the 7th level of importance			18.1818%
+Message with the 8th level of importance			36.3636%
+Total size of the queue: 0.390625Kb
+The biggest difference between time expired: 19.0998s
+
+Current time: 1681739333
+Queue size: 12 elements
+Stats:
+Priority	%
+Message with the 2nd level of importance			8.33333%
+Message with the 3rd level of importance			8.33333%
+Message with the 4th level of importance			8.33333%
+Message with the 5th level of importance			8.33333%
+Message with the 6th level of importance			16.6667%
+Message with the 7th level of importance			16.6667%
+Message with the 8th level of importance			33.3333%
+Total size of the queue: 0.429688Kb
+The biggest difference between time expired: 19.0998s
+
